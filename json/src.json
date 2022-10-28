@@ -1,0 +1,5 @@
+{
+  "userId": [10, "int"],
+  "title": [100, "string"],
+  "body": [1000, "string"]
+}
